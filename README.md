@@ -1,2 +1,2 @@
-# Implementation_of_LeNet-5
-Implementation of LeNet-5
+# Implementation_of_CNN_models
+- LeNet-5
